@@ -1,10 +1,16 @@
+# -- FONT --
 font-family = JetBrainsMono Nerd Font Mono
 font-size = 15
-background-opacity = 0.90
+font-style = Regular
+font-thicken = true
+
+# -- THEME & BACKGROUND & COLORS-- 
+background-opacity = 0.92
 background-blur = true
+# Minimum contrast is a bit dramatic: https://github.com/ghostty-org/ghostty/discussions/6083
+# minimum-contrast = 2.5
+theme = "Apple Classic"
+
+# -- MACOS SPECIFIC SETTINGS --
 macos-titlebar-style = tabs
 
-# Minimum contrast is a bit dramatic: https://github.com/ghostty-org/ghostty/discussions/6083
-minimum-contrast = 2.5
-
-theme = "Apple Classic"
