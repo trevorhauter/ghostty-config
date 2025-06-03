@@ -13,4 +13,5 @@ theme = "Apple Classic"
 
 # -- MACOS SPECIFIC SETTINGS --
 macos-titlebar-style = tabs
+macos-icon = paper
 
